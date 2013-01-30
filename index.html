@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <title>27/01/2013</title>
-
+<script src='jquery.js' type='text/javascript'></script>
 <style type="text/css" media="all">
 html,
 body {
@@ -70,11 +70,11 @@ body {
 
     #text-shadow-box #tsb-wall {
         background: #999;
-		height: 500px;
+		/*height: 500px;*/
 		overflow: auto;
     }
 
-        #text-shadow-box #tsb-wall ul {
+        #text-shadow-box #tsb-wall p {
             position: relative;
             font-size: 12px;
             line-height: 1.5em;
@@ -100,17 +100,21 @@ body {
                     background: #fff;
                 }
 
-#tsb-spot {
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    pointer-events: none;
-    background: -webkit-gradient(radial, center center, 0, center center, 450, from(rgba(0,0,0,0)), to(rgba(0,0,0,1)));
-    background: -moz-radial-gradient(center 45deg, circle closest-side, transparent 0, black 450px);
-    background: -o-radial-gradient(center, circle closest-side, transparent 0, black 450px);
-}
+		#tsb-spot {
+			position: absolute;
+			top: -50%;
+			left: -50%;
+			width: 200%;
+			height: 200%;
+			pointer-events: none;
+			background: -webkit-gradient(radial, center center, 0, center center, 450, from(rgba(0,0,0,0)), to(rgba(0,0,0,1)));
+			background: -moz-radial-gradient(center 45deg, circle closest-side, transparent 0, black 450px);
+			background: -o-radial-gradient(center, circle closest-side, transparent 0, black 450px);
+		}
+		
+		
+		ul li{list-style:none; font-size: 18pt; text-align: center;}
+		#tsb-wall .container{width:100%;height:100%;overflow:hidden; }
 </style>
 
 <!--[if IE]>
@@ -140,7 +144,7 @@ body {
     <div id="tsb-wall">
         <div id="tsb-ie"></div>
         
-        <p>
+        <div class='container'>
 			<ul>
 				<li>Alan Rembem de Oliveira </li>
 				<li>Alex Giacomelli </li>
@@ -377,7 +381,7 @@ body {
 				<li>Viviane Tólio Soares</li>
 				<li>Walter de Mello Cabistani </li>
 			</ul>
-		</p>
+		</div>
     </div>
     <div id="tsb-spot"></div>
 </div>
@@ -393,6 +397,10 @@ body {
  
  * remember-27012013
  * Fork it on GitHub: https://github.com/ikkebr/remember-27012013
+ *
+ 
+ * Simple jQuery Ticker
+ * Source: http://www.codeproject.com/Tips/495013/A-simple-ticker-with-jQuery
  *
  */
  
@@ -441,6 +449,38 @@ function onMouseMove(e) {
     ym = e.clientY - Math.floor(window.innerHeight / 2);
     spot.style.backgroundPosition = xm + 'px ' + ym + 'px';
 }
+
+
+var containerheight = 0;
+var numbercount = 0;
+var liheight;
+var index = 1;
+function callticker() {
+    $(".container ul").animate({
+        "margin-top": (-1) * (liheight * index)
+    }
+
+    , 400);
+    if (index != numbercount - 1) {
+        index = index + 1;
+    }
+    else {
+        index = 0;
+    }
+    timer = setTimeout("callticker()", 500);
+}       
+$(document).ready(function() {
+    numbercount = $(".container ul li").size();
+    liheight = $(".container ul li").outerHeight();
+    containerheight = $(".container ul  li").outerHeight() * numbercount;
+    $(".container ul").css("height", containerheight);
+    var timer = setTimeout("callticker()", 500); 
+	//alert('aqui');
+    
+});
+
+
+
 </script>
 
 </body>
