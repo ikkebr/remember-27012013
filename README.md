@@ -1,18 +1,242 @@
-# STOP SOPA AND PIPA
-
-This repository is my take on "going dark" for the [January 18 blackout to protest SOPA](http://sopastrike.com/).
-
-You can use the provided **`index.html`** as your site's homepage on January 18 as one possible way to participate.
-
-[**It looks like this.**](http://www.zachstronaut.com/lab/text-shadow-box/stop-sopa.html)
-
+# MEMORIAL DIGITAL EM HOMENAGEM AS VÍTIMAS DA BOATE KISS EM 27/01/2013
 ---
+Alan Rembem de Oliveira 
+Alex Giacomelli 
+Alexandre Anes Prado 
+Alisson Oliveira da Silva 
+Allana Willers 
+Ana Carolini Rodrigues 
+Ana Paula Anibaleto dos Santos 
+Ana Paula Rodrigues 
+Andressa Ferreira Flores 
+Andressa Inaja de Moura Ferreira 
+Andressa Roaz Paz 
+Andressa Thalita Farias Brissow 
+Andrieli Righi da Silva 
+Andrise Farias Nicoletti 
+André Cadore Bosser 
+Ângelo Nicolosso Aita 
+Ariel Nunes Andreatta 
+Augusto Cesar Neves 
+Augusto Malezan de Almeida Gomes
+Augusto Sergio Krauspenhar da Silva 
+Benhur Retzlaff Rodrigues 
+Bernardo Carlo Robe 
+Bibiana Berleze 
+Brady Adrian Gonçalves Silveira 
+Bruna Brondani Pafhalia 
+Bruna Camila Graeff 
+Bruna Eduarda Neu 
+Bruna Karoline Gecai 
+Bruno Kraulich 
+Bárbara Moraes Nunes 
+Camila Cassulo Ramos 
+Carlitos Chaves Soares 
+Carlos Alexandre dos Santos Machado 
+Carolina Simões Corte Real 
+Cecília Soares Vargas 
+Clarissa Lima Teixeira 
+Crisley Caroline Saraiva Freitas da Palma 
+Cristiane Quevedo da Rosa 
+Cássio Garcez Biscaino 
+Daniel Knabbem da Rosa 
+Daniel Sechim 
+Daniela Betega Ahmad 
+Daniele Dias de Mattos 
+Danilo Brauner Jaques 
+Danriei Darin 
+David Santiago de Souza 
+Deives Marques Gonçalves 
+Diego Comim Silvéster 
+Dionatham Kamphorst Paulo 
+Douglas da Silva Flores 
+Dulce Raniele Gomes Machado 
+Débora Chiappa Forner 
+Elizandor Oliveira Rolin 
+Emerson Cardoso Pain 
+Emili Contreira Ercolani 
+Ericson Ávila dos Santos 
+Erika Sarturi Becker 
+Evelin Costa Lopes 
+Felipe Vieira 
+Fernanda Tischer 
+Fernanda de Lima Malheiros 
+Fernando Michel Devagarins Parcianello 
+Fernando Pellin 
+Flávia Decarle Magalhães 
+Flávia Maria Torres Lemos 
+Franciele Soares Vargas 
+Francielli Araujo Vieira 
+FrancileVizioli 
+Fábio José Cervinski 
+Gabriela Corcine Sanchotene 
+Gabriela dos Santos Saenger 
+Geni Lourenço da Silva 
+Gilmara Quintanilha Oliveira 
+Giovane Krauchemberg Simões 
+Greicy Pazzini Bairro 
+Guilherme Fontes Gonçalves 
+Guino Ramom Brites Burro 
+Gustavo Ferreira Soares 
+Gustavo Marques Gonçalves
+Heitor Santos Oliveira Teixeira 
+Heitor Teixeira Gonçalves 
+Helena Poletto Dambros 
+Helio Trentin Junior 
+Henrique Nemitz Martins 
+Herbert Magalhães Charão 
+Igor Stefhan de Oliveira 
+Ilivelton Martins Koglin 
+Isabela Fiorini 
+Ivan Munchem 
+Jacob Francisco Thiele 
+Jaderson da Silva 
+Janaina Portella 
+Jennefer Mendes Ferreira 
+José Luiz Weiss Neto 
+José Manoel Rosa da Cruz 
+João Aluisio Treuliebe 
+João Carlos Barcellos Silva 
+João Paulo Pozzobom 
+João Renato Chagas de Souza 
+Julia Cristofali Saul 
+Juliana Moro Medeiros 
+Juliana Oliveira dos Santos 
+Juliana Sperone Lentz 
+Juliano de Almeida Farias 
+Jéssica Almeida Kongen 
+Karen Fernanda Knirsch 
+Kelen Aline Karsten Favarin 
+Kellen Pereira da Rosa 
+Kelli Anne Santos Azzolin 
+Larissa Hosbach 
+Larissa Terres Teixeira 
+Lauriani Salapata 
+Leandra Fernandes Toniolo 
+Leandro Avila Leivas 
+Leandro Nunes da Silva 
+Leonardo Lemos Karsburg 
+Leonardo Machado de Lacerda 
+Leonardo Schoff Vendrúsculo 
+Leonardo de Lima Machado 
+Letícia Baú 
+Letícia Ferraz da Cruz 
+Letícia Vasconcellos 
+Lincon Turcato Carabagiale 
+Louise Victoria Farias Brissow 
+Luana Behr Vianna 
+Luana Faco Ferreira 
+Lucas Dias de Oliveira 
+Lucas Fogiato 
+Lucas Leite Teixeira 
+Luciane Moraes Lopes 
+Luciano Ariel Silva da Silva 
+Luciano Tagliapetra Esperidião 
+Luiz Antonio Xisto 
+Luiz Carlos Ludin de Oliveira 
+Luiz Eduardo Viegas Flores 
+Luiz Felipe Balest Piovesan 
+Luiz Fernando Riva Donate 
+Luiz Fernando Rodrigues Wagner 
+Luiza Alves da Silva 
+Luiza Batistella Puttow 
+Maicon Afrolinario Cardoso 
+Maicon Douglas Moreira Iensen 
+Maicon Francisco Evaldt 
+Manuele Moreira Passamane 
+Marcelo de Freitas Salla Filho 
+Marcos André Rigoli 
+Marfisa Soares Caminha 
+Maria Mariana Rodrigues Ferreira 
+Mariana Comassetto do Canto 
+Mariana Machado Bona 
+Mariana Moreira Macedo 
+Mariana Pereira Freitas 
+Marilene Iensen Castro 
+Marina Kertermann Kalegari 
+Marina de Jesus Nunes 
+Martins Francisco Mascarenhas de Souza Onofre 
+Marton Matana 
+Matheus Engert Rebolho 
+Matheus Pacheco Brondani 
+Matheus de Lima Librelotto 
+Mauricio Loreto Jaime 
+Melissa Bergemeier Correia 
+Melissa do Amaral Dalforno 
+Merylin de Camargo dos Santos 
+Michele Dias de Campos 
+Micheli Froehlich Cardoso 
+Miguel Webber May 
+Mirella Rosa da Cruz 
+Monica Andressa Glanzel 
+Murilo Garcez Fumaco 
+Murilo de Souza Barone Silveira 
+Natana Pereira Canto 
+Natascha Oliveira Urquiza 
+Natiele dos Santos Soares 
+Neiva Carina de Oliveira Marin 
+Odomar Gonzaga Noronha 
+Otacílio Altíssimo Gonçalves 
+Patrícia Pazzini Bairro 
+Paula Batistela Gatto 
+Paula Porto Rodrigues Costa 
+Paula Simone Melo Prates 
+Pedro Morgental  Rafael de Oliveira Dorneles 
+Pedro de Oliveira Salla 
+Priscila Ferreira Escobar 
+Pâmella de Jesus Lopes 
+Rafael Dias Ferreira 
+Rafael Paulo Nunes de Carvalho 
+Rafael Quilião e Oliveira 
+Rafaela Schimidt Nunes 
+Raquel Daiane Fischer 
+Rhaissa Gross Cúria 
+Rhuan Scherer de Andrade 
+Ricardo Custódio 
+Ricardo Dariva 
+Ricardo Stefanello Piovesan 
+Robson Van der Hahn 
+Rodrigo Belling Hausen Bairros Costa 
+Roger Barcellos Farias 
+Roger Dallanhol 
+Rogério Cardoso Ivaniski 
+Rogério Floriano Cardoso 
+Rosabe Fernandes Rechermann 
+Ruan Pendenza Callegari 
+Sabrina Soares Mendes 
+Sandra Leone Pacheco Ernesto 
+Sandra Victorino Goulart 
+Shaiana Tauchem Antoline 
+Silvio Beurer Junior 
+Stefane Posser Simeoni 
+Suziele Cassol 
+Taise Carolina Vinas Silveira
+Taize Santos dos Santos 
+Tanise Lopes Cielo 
+Taís da Silva Scaplin de Freitas 
+Thailan Rebhein de Oliveira 
+Thailan de Oliveira 
+Thais Zimermann Darif 
+Thanise Correa Garcia 
+Thiago Amaro Cechinatto 
+Tiago Dovigi Cegabinaze 
+Uberafara Soares Bastos Junior 
+Vagner Rolin Marastega 
+Vandelcork Marques Lara Junior 
+Vanessa Vancovicht Soares 
+Victor Datria Mcagnam 
+Victor Martins Shimitz 
+Vinicios Greff 
+Vinicios Paglnossim de Moraes 
+Vinicius Marconato Uggeri 
+Vinicius Silveira Marques de Mello 
+Vinissios Montardo Rosado 
+Vitória Dacorso Saccol 
+Viviane Tólio Soares
+Walter de Mello Cabistani  
 
-## Info For Website Admins
 
-Check out this Google+ thread about [503 HTTP headers and Google search index](https://plus.google.com/u/0/115984868678744352358/posts/Gas8vjZ5fmB).
-
----
+# INFORMAÇÕES DO CRIADOR ORIGINAL DO TEMPLATE
 
 ## More About This Template
 
