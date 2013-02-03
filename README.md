@@ -30,6 +30,7 @@
 - Bruna Eduarda Neu 
 - Bruna Karoline Gecai 
 - Bruno Kraulich 
+- Bruno Portella Fricks
 - Bárbara Moraes Nunes 
 - Camila Cassulo Ramos 
 - Carlitos Chaves Soares 
