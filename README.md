@@ -183,11 +183,13 @@
 - Paula Batistela Gatto 
 - Paula Porto Rodrigues Costa 
 - Paula Simone Melo Prates 
-- Pedro Morgental  Rafael de Oliveira Dorneles 
+- Pedro Almeida
+- Pedro Morgental  
 - Pedro de Oliveira Salla 
 - Priscila Ferreira Escobar 
 - Pâmella de Jesus Lopes 
 - Rafael Dias Ferreira 
+- Rafael de Oliveira Dorneles 
 - Rafael Paulo Nunes de Carvalho 
 - Rafael Quilião e Oliveira 
 - Rafaela Schimidt Nunes 
