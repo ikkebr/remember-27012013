@@ -202,6 +202,7 @@
 - Ricardo Stefanello Piovesan 
 - Robson Van der Hahn 
 - Rodrigo Belling Hausen Bairros Costa 
+- Rodrigo Taugen
 - Roger Barcellos Farias 
 - Roger Dallanhol 
 - Rogério Cardoso Ivaniski 
