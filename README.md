@@ -52,6 +52,7 @@
 - Diego Comim Silvéster 
 - Dionatham Kamphorst Paulo 
 - Douglas da Silva Flores 
+- Driele Pedroso Lucas
 - Dulce Raniele Gomes Machado 
 - Débora Chiappa Forner 
 - Elizandor Oliveira Rolin 
