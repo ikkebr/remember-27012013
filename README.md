@@ -154,7 +154,8 @@
 - Mariana Comassetto do Canto 
 - Mariana Machado Bona 
 - Mariana Moreira Macedo 
-- Mariana Pereira Freitas 
+- Mariana Pereira Freitas
+- Mariane Wallau Vielmo 
 - Marilene Iensen Castro 
 - Marina Kertermann Kalegari 
 - Marina de Jesus Nunes 
